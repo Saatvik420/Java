@@ -1,4 +1,4 @@
-import java.io.*;
+
 class apple{
     static int minapples(int m, int k, int n, int s, int w, int e){
         if(m<=s*k)
